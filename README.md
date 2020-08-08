@@ -11,7 +11,7 @@
 ¡Bienvenidos!
 </h1>
 
-<p>
-  <strong>Parrafo</strong>
+<p align="center">
+  <strong>Crónicas de un Robot</strong>
   </p>
   
